@@ -1,0 +1,19 @@
+/*
+ Theme Name:   Astra Lite
+ Theme URI:    https://wpastra.com/
+ Description:  Astra is fast, fully customizable & beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site. It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Some of the other features: # WooCommerce Ready # Responsive Ready # RTL & Translation Ready # Extendible with premium addons # Regularly updated # Designed using Material Design.
+ Author:       Brainstorm Force
+ Author URI:   https://wpastra.com/about/
+ Version:      4.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  astra
+ Tags:         custom-menu, custom-logo, editor-style, featured-images, threaded-comments, translation-ready, blog, e-commerce, full-width-template, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options
+*/
+body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    line-height: 1.7;
+    margin: 0;
+    font-size: 16px;
+}
+/* Add more styles here */
